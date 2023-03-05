@@ -5,6 +5,7 @@
   },
   "postCreateCommand": "code -n",
    "settings": {
-      "terminal.integrated.shell.linux": "/bin/bash"
+      "terminal.integrated.shell.linux": "/bin/bash",
+      "terminal.integrated.defaultLocation": "editor"
   }
 }
